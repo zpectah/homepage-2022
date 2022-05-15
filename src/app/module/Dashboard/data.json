@@ -1,0 +1,104 @@
+{
+  "links": [
+    {
+      "path": "https://www.facebook.com/",
+      "label": "facebook"
+    },
+    {
+      "path": "https://twitter.com/",
+      "label": "twitter"
+    },
+    {
+      "path": "https://www.deviantart.com/",
+      "label": "deviantart"
+    },
+    {
+      "path": "https://www.linkedin.com/",
+      "label": "linkedin"
+    },
+    {
+      "path": "https://pinterest.com/",
+      "label": "pinterest"
+    },
+    {
+      "path": "https://www.youtube.com/",
+      "label": "youtube"
+    },
+    {
+      "path": "https://vimeo.com/",
+      "label": "vimeo"
+    },
+    {
+      "path": "https://www.twitch.tv/",
+      "label": "twitch"
+    },
+    {
+      "path": "https://www.reddit.com/",
+      "label": "reddit"
+    },
+    {
+      "path": "https://dribbble.com/",
+      "label": "dribbble"
+    },
+    {
+      "path": "https://digg.com/",
+      "label": "digg"
+    },
+    {
+      "path": "https://www.behance.net/",
+      "label": "behance"
+    },
+    {
+      "path": "https://www.tumblr.com/",
+      "label": "tumblr"
+    },
+    {
+      "path": "https://www.smashingmagazine.com/",
+      "label": "smashingmagazine"
+    },
+    {
+      "path": "https://stackoverflow.com/",
+      "label": "stackoverflow"
+    },
+    {
+      "path": "https://stackexchange.com/",
+      "label": "stackexchange"
+    },
+    {
+      "path": "https://github.com/",
+      "label": "github"
+    },
+    {
+      "path": "https://bitbucket.org/",
+      "label": "bitbucket"
+    },
+    {
+      "path": "https://gitlab.com/",
+      "label": "gitlab"
+    },
+    {
+      "path": "https://imgur.com/",
+      "label": "imgur"
+    },
+    {
+      "path": "https://9gag.com/",
+      "label": "9gag"
+    },
+    {
+      "path": "https://netflix.com/",
+      "label": "netflix"
+    },
+    {
+      "path": "https://hbomax.com/",
+      "label": "hbomax"
+    },
+    {
+      "path": "https://www.disneyplus.com/",
+      "label": "disney+"
+    },
+    {
+      "path": "https://www.hulu.com/",
+      "label": "hulu"
+    }
+  ]
+}

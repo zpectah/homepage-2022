@@ -1,0 +1,12 @@
+# Keep errors on to prevent variable server configuration !!
+php_flag display_errors on
+
+# Set default character set
+AddDefaultCharset UTF-8
+
+# Server rewrite rules
+RewriteEngine On
+RewriteRule ^api                              - [L]
+RewriteRule ^public                           - [L]
+RewriteCond %{REQUEST_URI}     !/www/        [NC]
+RewriteRule (.*)               /www/$1       [L]

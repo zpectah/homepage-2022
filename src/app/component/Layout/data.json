@@ -1,0 +1,78 @@
+{
+  "apps": {
+    "Google": [
+      {
+        "path": "https://google.com/",
+        "label": "Google"
+      },
+      {
+        "path": "http://mail.google.com/",
+        "label": "Google Mail"
+      },
+      {
+        "path": "http://maps.google.com/",
+        "label": "Google Maps"
+      },
+      {
+        "path": "http://docs.google.com/",
+        "label": "Google Docs"
+      },
+      {
+        "path": "http://www.google.com/calendar",
+        "label": "Google Calendar"
+      },
+      {
+        "path": "http://translate.google.com/",
+        "label": "Google Translate"
+      },
+      {
+        "path": "http://www.google.com/analytics",
+        "label": "Google Analytics"
+      },
+      {
+        "path": "https://www.google.com/settings/account",
+        "label": "Google Account"
+      },
+      {
+        "path": "https://play.google.com/",
+        "label": "Google Play"
+      }
+    ],
+    "Apple": [
+      {
+        "path": "https://apple.com/",
+        "label": "Apple"
+      },
+      {
+        "path": "https://support.apple.com/",
+        "label": "Apple Support"
+      },
+      {
+        "path": "http://appstore.com/",
+        "label": "App Store"
+      },
+      {
+        "path": "https://www.icloud.com/",
+        "label": "Apple iCloud"
+      }
+    ],
+    "Microsoft": [
+      {
+        "path": "https://microsoft.com/",
+        "label": "Microsoft"
+      },
+      {
+        "path": "https://support.microsoft.com/",
+        "label": "Microsoft Support"
+      },
+      {
+        "path": "https://www.microsoft.com/en-us/store/apps",
+        "label": "Microsoft Store"
+      },
+      {
+        "path": "https://account.microsoft.com/account",
+        "label": "Microsoft Account"
+      }
+    ]
+  }
+}
